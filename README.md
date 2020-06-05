@@ -1,7 +1,8 @@
 # Project: Private Events
 <b>Microverse</b>
 
-This is the 7th project of Microverse Ruby on Rails Curriculum and it is related to associations between models.
+This project makes part of Microverse Ruby on Rails Curriculum and the objective was to build an application named Private Events which behaves similar to Eventbrite. 
+The main goal is to put in practice the main concepts of Associations between models with Active Record in Rails.
 
 ## App Screenshot
 ![screenshot](https://i.imgur.com/GSSXyaj.png?1)
@@ -13,7 +14,7 @@ This is the 7th project of Microverse Ruby on Rails Curriculum and it is related
 ## How to install
 
 1. open terminal window then execute:
-2. git clone https://github.com/sumancrest0001/private-events.git
+2. git clone https://github.com/noomdalv/private-events.git
 3. cd private-events
 4. bundle install
 5. rails db:migrate
@@ -21,11 +22,11 @@ This is the 7th project of Microverse Ruby on Rails Curriculum and it is related
 
 
 ## 👤 Authors
-- Github: [@sumancrest0001](https://github.com/sumancrest0001)<br />
-  Email: suman.crest0001@gmail.com
-
 - Github: [@noomdalv](https://github.com/noomdalv)<br />
   Email: vladlunasan@gmail.com
+  
+- Github: [@sumancrest0001](https://github.com/sumancrest0001)<br />
+  Email: suman.crest0001@gmail.com
 
 ## 📝 License
 
